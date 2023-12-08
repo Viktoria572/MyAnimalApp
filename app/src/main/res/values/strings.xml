@@ -3,25 +3,16 @@
     <string name="main_title">My Animal App</string>
     <string name="detail_button_text">DETAILS</string>
 
-    <string name="cat_name">Sugar</string>
+    <string name="cat_name">Lily</string>
     <string name="cat_description">Gray Cat</string>
-    <string name="cat_details">Sugar is a 5 year old male
-        gray cat who loves long naps, head scratches and
-        watching fish in the aquarium. He may seem grumpy
-        at first, but is actually rather sweet. </string>
+    <string name="cat_details">Lily, a cat with a graceful posture, prefers comfortable windows and soft pillows. Her hobbies are carefree climbing paths in her own kingdom during the day and catching stars in the window at night. </string>
 
-    <string name="dog_name">Fluffy</string>
+    <string name="dog_name">Rex</string>
     <string name="dog_description">White Dog</string>
-    <string name="dog_details">Fluffy is a 2 year old female
-        white dog who loves being around her owner, playing with
-        a ball and getting belly rubs. She is really joyful
-        and friendly. </string>
+    <string name="dog_details">Rex, a dog with a cheerful personality and boundless energy, loves adventures and walks in the park. He is always ready to entertain his owner with his liveliness. </string>
 
-    <string name="bunny_name">Twinkle</string>
-    <string name="bunny_description">Black &amp; white bunny</string>
-    <string name="bunny_details">Twinkle is a 6 months old
-    black-and-white bunny who loves eating carrots,
-    hopping around and chewing on things that are not meant
-    to be chewed.</string>
+    <string name="bunny_name">Flops</string>
+    <string name="bunny_description">Red bunny</string>
+    <string name="bunny_details">Flops, a fluffy little rabbit, loves to nibble on fresh grass and hide in his burrow. Each of them is brought into our lives in its own unique way, which makes our environment brighter and richer.</string>
 
 </resources>
